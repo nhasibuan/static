@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Daftar Pusat Layanan atau Service Center Philips</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+</style>
+</head>
+<body>
+
+<h2>Daftar Pusat Layanan dan Pengalaman Konsumen Philips</h2>
+
+<table>
+  <tr>
+    <th>Nama</th>
+    <th>Nomor Telepon</th>
+    <th>Kota</th>
+    <th>Alamat</th>
+    <th>Jarak/Catatan</th>
+  </tr>
+  <tr>
+    <td>Philips Consumer Experience Center Jakarta Pusat</td>
+    <td>021- 29334738</td>
+    <td>Jakarta</td>
+    <td>Shopping Arcade No. 08 AF Podomoro City, Jl. Letjen S.Parman Kav 28 - Central Park</td>
+    <td>4 km</td>
+  </tr>
+  <tr>
+    <td>Philips Consumer Experience Center Jakarta Selatan</td>
+    <td>021 – 27518592</td>
+    <td>Jakarta</td>
+    <td>Jl. Sultan Iskandar Muda No. 9 Kebayoran Lama</td>
+    <td>7 km</td>
+  </tr>
+  <tr>
+    <td>Philips Consumer Experience Center Jakarta Utara</td>
+    <td>021 - 45856987</td>
+    <td>Jakarta</td>
+    <td>Jl. Boulevard Raya Blok QA 05 no.12, Kelapa Gading 14240</td>
+    <td>9.1 km</td>
+  </tr>
+  <tr>
+    <td>CV Golden Camera</td>
+    <td>021-5440490 / 5440491</td>
+    <td>Jakarta</td>
+    <td>Ruko Daan Mogot Baru, Jl. Tampak Siring Blok LB/5 No.33. Kel.Kalideres</td>
+    <td>13.1 km</td>
+  </tr>
+  <tr>
+    <td>CV Sarana sejuk Sentosa</td>
+    <td>021-22164448, 021-88987266</td>
+    <td>Bekasi</td>
+    <td>Ruko Komplek Sentra onderdil Mobil blok ED no 27. Kota Harapan Indah</td>
+    <td>17.7 km</td>
+  </tr>
+  <tr>
+    <td>CV Sigma Gold</td>
+    <td>021-77214733</td>
+    <td>Depok</td>
+    <td>Jl. Margonda Raya no. 1 Depok</td>
+    <td>21.8 km</td>
+  </tr>
+  <tr>
+    <td>CV Surya Kencana</td>
+    <td>021-5538823, 5512601</td>
+    <td>Tangerang</td>
+    <td>Jl. Palem Raya No. 35 Perumnas 1 Karawaci</td>
+    <td>23.2 km</td>
+  </tr>
+  <tr>
+    <td>CV Elima</td>
+    <td>0251-8365908</td>
+    <td>Bogor</td>
+    <td>Gedung Graha Pool - R203, Jl. Merdeka NO.110, Ciwaringin, Bogor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PT Citra Kreasi Makmur</td>
+    <td>022-4208266/ 4219283</td>
+    <td>Bandung</td>
+    <td>Jl. Pasir Koja No.38A, Bandung</td>
+    <td>19.7 km</td>
+  </tr>
+  <tr>
+    <td>CV Mitra Karya Gemilang</td>
+    <td>022-86000165 /6017162</td>
+    <td>Bandung</td>
+    <td>Jl. Terusan Pasir Koja 261 Bandung</td>
+    <td>20.4 km</td>
+  </tr>
+  <tr>
+    <td>Philips Consumer Experience Center Bandung</td>
+    <td>022 - 6003644</td>
+    <td>Bandung</td>
+    <td>Ruko Pascal Hyper Square Blok F no. 23, Jl. Pasir Kaliki no. 25-27 Bandung</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CV Aneka Electronik</td>
+    <td>0354 – 689336</td>
+    <td>Kediri</td>
+    <td>Jl. Letjen Suprapto no 11</td>
+    <td>39.5 km</td>
+  </tr>
+  <tr>
+    <td>PT Citra Kreasi Makmur</td>
+    <td>0354-672389 / 672532</td>
+    <td>Kediri</td>
+    <td>Jl. Brigjen Katamso No. 112</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Philips Consumer Experience Center Semarang</td>
+    <td>024-8451970 & 024-8451960</td>
+    <td>Semarang</td>
+    <td>Ruko Citraland Mall – Simpang Lima. Blok C No.31, Jl. Anggrek Raya, Kelurahan Pekunden, Semarang – 50134</td>
+    <td>35.9 km</td>
+  </tr>
+  <tr>
+    <td>PT Citra Kreasi Makmur</td>
+    <td>024-3567136</td>
+    <td>Semarang</td>
+    <td>Pergudangan Diamond Cipta Niaga Blok C no.16, Jl. Arteri Yos Sudarso</td>
+    <td>37.2 km</td>
+  </tr>
+  <tr>
+    <td>CV Syailendra</td>
+    <td>024-76743033/ 76410202</td>
+    <td>Semarang</td>
+    <td>Jl. Arteri Soekarno Hatta no.6 Semarang</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BJ Service</td>
+    <td>061 – 4151516 / 4150507 / 4151920</td>
+    <td>Medan</td>
+    <td>Jl. Sei Deli No.63A Kompleks Bakom/PKB Medan</td>
+    <td>0.5 km</td>
+  </tr>
+  <tr>
+    <td>CV Good Electronics</td>
+    <td>061-8831439 Hp: 08116141439</td>
+    <td>Binjai</td>
+    <td>Jl Gajah Mada n0. 146, Kel Tunngurono, Kec, Binjai Timur</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CV Sukses Mandiri Raya</td>
+    <td>0411-425885 / 085299599882</td>
+    <td>Makassar</td>
+    <td>Jl. Bau Mangga No.32-B, (depan Australian Int. school) 90231</td>
+    <td>Tips: Sebaiknya hubungi pusat layanan sebelum kedatangan.</td>
+  </tr>
+  <tr>
+    <td>CV Calistaraya Abadi</td>
+    <td>0361-4747900</td>
+    <td>Denpasar</td>
+    <td>Jl. Letda Tantular Barat (300m dari Kampus IIK atau Taman agung proklamasi) Renon 80234</td>
+    <td>Tips: Sebaiknya hubungi pusat layanan sebelum kedatangan.</td>
+  </tr>
+</table>
+
+</body>
+</html>
