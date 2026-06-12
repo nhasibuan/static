@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Gabungan Jadwal Pelajaran</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2em;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 4px;
+      text-align: center;
+    }
+    th {
+      background: #f0f0f0;
+    }
+    caption {
+      font-weight: bold;
+      margin: 0.5em 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Jadwal SMA -->
+
+        <table>
+    <caption>JADWAL MATA PELAJARAN SEMESTER GANJIL – SMA (2025/2026)</caption>
+    <thead>
+    <tr>
+        <td>Hari</td>
+        <td>Jam Ke-</td>
+        <td>Waktu</td>
+        <td>XI 1</td>
+        <td>XI 2</td>
+        <td>XI 3</td>
+        <td>XI 4</td>
+        <td>XI 5</td>
+        <td>XI 6</td>
+        <td>XI 7</td>
+        <td>XI 8</td>
+        <td>XI 9</td>
+        <td>Piket</td>
+    </thead>
+    <tbody>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>0</td>
+        <td>06.30 - 07.30</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td>U P A C A R A</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>1</td>
+        <td>07.30- 08.15</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Kimia</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Bahasa Inggris</td>
+        <td>PJOK</td>
+        <td>Matematika</td>
+        <td>Ekonomi</td>
+        <td>O1<br>K4/R2</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>2</td>
+        <td>08.15 - 09.00</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Kimia</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Bahasa Inggris</td>
+        <td>PJOK</td>
+        <td>Matematika</td>
+        <td>Ekonomi</td>
+        <td>O1<br>K4/R3</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>3</td>
+        <td>09.00 - 09.45</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Jerman</td>
+        <td>Kimia</td>
+        <td>Sosiologi</td>
+        <td>Informatika</td>
+        <td>Bahasa Inggris</td>
+        <td>Matematika</td>
+        <td>PKWU</td>
+        <td>PJOK</td>
+        <td>O1<br>K4/R4</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td></td>
+        <td>09.45 - 10.05</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>O1<br>K4/R5</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>4</td>
+        <td>10.05 - 10.45</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Informatika</td>
+        <td>Seni Musik</td>
+        <td>Matematika</td>
+        <td>PKWU</td>
+        <td>PJOK</td>
+        <td>O1<br>K4/R6</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>5</td>
+        <td>10.45 - 11.25</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Informatika</td>
+        <td>Seni Musik</td>
+        <td>PKWU</td>
+        <td>PJOK</td>
+        <td>Matematika</td>
+        <td>O1<br>K4/R7</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>6</td>
+        <td>11.25 - 12.10</td>
+        <td>Kimia</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>Seni Musik</td>
+        <td>BK</td>
+        <td>Pendidikan Agama</td>
+        <td>PKWU</td>
+        <td>PJOK</td>
+        <td>Matematika</td>
+        <td>O1<br>K4/R8</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td></td>
+        <td>12.10 - 13.00</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>O1<br>K4/R9</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>7</td>
+        <td>13.00 - 13.40</td>
+        <td>Kimia</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Inggris</td>
+        <td>Seni Musik</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Agama</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>Kimia</td>
+        <td>O1<br>K4/R10</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>8</td>
+        <td>13.40 - 14.20</td>
+        <td>Biologi</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Inggris</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>Kimia</td>
+        <td>O1<br>K4/R11</td>
+    </tr>
+    <tr>
+        <td>Senin</td>
+        <td>9</td>
+        <td>14.20 - 15.00</td>
+        <td>Biologi</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Bahasa Inggris</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>Kimia</td>
+        <td>O1<br>K4/R12</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>0</td>
+        <td>06.30 - 06.45</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td></td>
+        <td>06.45 - 06.50</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>O3<br>F2</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>1</td>
+        <td>06.50 - 07.35</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Matematika</td>
+        <td>Biologi</td>
+        <td>Biologi</td>
+        <td>Sosiologi</td>
+        <td>PJOK</td>
+        <td>Pendidikan Agama</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>O3<br>F3</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>2</td>
+        <td>07.35 - 08.20</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Matematika</td>
+        <td>Biologi</td>
+        <td>Biologi</td>
+        <td>Sosiologi</td>
+        <td>PJOK</td>
+        <td>Pendidikan Agama</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>O3<br>F4</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>3</td>
+        <td>08.20 - 09.05</td>
+        <td>Matematika</td>
+        <td>Sejarah Indonesia</td>
+        <td>Biologi</td>
+        <td>Biologi</td>
+        <td>PJOK</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>O3<br>F5</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>4</td>
+        <td>09.05 - 09.50</td>
+        <td>Matematika</td>
+        <td>Sejarah Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>PJOK</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>O3<br>F6</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td></td>
+        <td>09.50 - 10.10</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>O3<br>F7</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>5</td>
+        <td>10.10 - 10.50</td>
+        <td>Kimia</td>
+        <td>PJOK</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Matematika</td>
+        <td>Sosiologi</td>
+        <td>Matematika</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>O3<br>F8</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>6</td>
+        <td>10.50 - 11.30</td>
+        <td>Kimia</td>
+        <td>PJOK</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Matematika</td>
+        <td>Fisika</td>
+        <td>Matematika</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>O3<br>F9</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>7</td>
+        <td>11.30 - 12.10</td>
+        <td>Kimia</td>
+        <td>Seni Musik</td>
+        <td>Sosiologi</td>
+        <td>Matematika</td>
+        <td>Informatika</td>
+        <td>Fisika</td>
+        <td>Ekonomi</td>
+        <td>Matematika</td>
+        <td>Kimia</td>
+        <td>O3<br>F10</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td></td>
+        <td>12.10 - 13.00</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>O3<br>F11</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>8</td>
+        <td>13.00 - 13.40</td>
+        <td>Fisika</td>
+        <td>Seni Musik</td>
+        <td>Sosiologi</td>
+        <td>Matematika</td>
+        <td>Informatika</td>
+        <td>Fisika</td>
+        <td>Ekonomi</td>
+        <td>Matematika</td>
+        <td>Kimia</td>
+        <td>O3<br>F12</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>9</td>
+        <td>13.40 - 14.20</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>PKWU</td>
+        <td>Matematika</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>Sejarah Indonesia</td>
+        <td>O3<br>F13</td>
+    </tr>
+    <tr>
+        <td>Selasa</td>
+        <td>10</td>
+        <td>14.20 - 15.00</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>PKWU</td>
+        <td>Matematika</td>
+        <td>Geografi</td>
+        <td>Ekonomi</td>
+        <td>Sejarah Indonesia</td>
+        <td>O3<br>F14</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>0</td>
+        <td>06.30 - 06.45</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td>L I T E R A S I</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td></td>
+        <td>06.45 - 06.50</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>K1<br>G1</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>1</td>
+        <td>06.50 - 07.35</td>
+        <td>Matematika</td>
+        <td>Fisika</td>
+        <td>Kimia</td>
+        <td>Fisika</td>
+        <td>Bahasa Indonesia</td>
+        <td>Informatika</td>
+        <td>Kimia</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>K1<br>G2</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>2</td>
+        <td>07.35 - 08.20</td>
+        <td>Matematika</td>
+        <td>Fisika</td>
+        <td>Kimia</td>
+        <td>Fisika</td>
+        <td>Bahasa Indonesia</td>
+        <td>Informatika</td>
+        <td>Kimia</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>K1<br>G3</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>3</td>
+        <td>08.20 - 09.05</td>
+        <td>Biologi</td>
+        <td>Fisika</td>
+        <td>Seni Musik</td>
+        <td>Fisika</td>
+        <td>Bahasa Indonesia</td>
+        <td>Sejarah Indonesia</td>
+        <td>Kimia</td>
+        <td>Bahasa Inggris</td>
+        <td>Sosiologi</td>
+        <td>K1<br>G4</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>4</td>
+        <td>09.05 - 09.50</td>
+        <td>Biologi</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Seni Musik</td>
+        <td>Bahasa Inggris</td>
+        <td>Bahasa Jerman</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Geografi</td>
+        <td>K1<br>G5</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td></td>
+        <td>09.50 - 10.10</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>K1<br>G6</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>5</td>
+        <td>10.10 - 10.50</td>
+        <td>Biologi</td>
+        <td>Matematika Tingkat Lanjut</td>
+        <td>Matematika</td>
+        <td>Bahasa Inggris</td>
+        <td>Bahasa Jerman</td>
+        <td>PKWU</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Geografi</td>
+        <td>K1<br>G7</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>6</td>
+        <td>10.50 - 11.30</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Matematika</td>
+        <td>Bahasa Inggris</td>
+        <td>Bahasa Jerman</td>
+        <td>PKWU</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Geografi</td>
+        <td>K1<br>G8</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>7</td>
+        <td>11.30 - 12.10</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Fisika</td>
+        <td>Matematika</td>
+        <td>Sejarah Indonesia</td>
+        <td>BK</td>
+        <td>Sejarah Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Bahasa Inggris</td>
+        <td>K1<br>G9</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td></td>
+        <td>12.10 - 13.00</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>K1<br>G10</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>8</td>
+        <td>13.00 - 13.40</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Fisika</td>
+        <td>Matematika</td>
+        <td>Sejarah Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Sosiologi</td>
+        <td>Bahasa Inggris</td>
+        <td>K1<br>G11</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>9</td>
+        <td>13.40 - 14.20</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Matematika</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Seni Musik</td>
+        <td>Bahasa Inggris</td>
+        <td>K1<br>G12</td>
+    </tr>
+    <tr>
+        <td>Rabu</td>
+        <td>10</td>
+        <td>14.20 - 15.00</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Matematika</td>
+        <td>Bahasa Indonesia</td>
+        <td>Bahasa Indonesia</td>
+        <td>Seni Musik</td>
+        <td>BK</td>
+        <td>K1<br>G13</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>0</td>
+        <td>06.30 - 06.45</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td>T A D A R U S</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td></td>
+        <td>06.45 - 06.50</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>MENYANYIKAN LAGU INDONESIA RAYA</td>
+        <td>K3<br>G2</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>1</td>
+        <td>06.50 - 07.35</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>Matematika</td>
+        <td>PJOK</td>
+        <td>Bahasa Jerman</td>
+        <td>Fisika</td>
+        <td>Bahasa Inggris</td>
+        <td>BK</td>
+        <td>Seni Musik</td>
+        <td>K3<br>G3</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>2</td>
+        <td>07.35 - 08.20</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>Matematika</td>
+        <td>PJOK</td>
+        <td>Bahasa Jerman</td>
+        <td>Fisika</td>
+        <td>Bahasa Inggris</td>
+        <td>Kimia</td>
+        <td>Seni Musik</td>
+        <td>K3<br>G4</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>3</td>
+        <td>08.20 - 09.05</td>
+        <td>PJOK</td>
+        <td>BK</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Bahasa Inggris</td>
+        <td>Kimia</td>
+        <td>PKWU</td>
+        <td>K3<br>G5</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>4</td>
+        <td>09.05 - 09.50</td>
+        <td>PJOK</td>
+        <td>Kimia</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>BK</td>
+        <td>Kimia</td>
+        <td>PKWU</td>
+        <td>K3<br>G6</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td></td>
+        <td>09.50 - 10.10</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>K3<br>G7</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>5</td>
+        <td>10.10 - 10.50</td>
+        <td>Seni Musik</td>
+        <td>Kimia</td>
+        <td>PJOK</td>
+        <td>BK</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Sosiologi</td>
+        <td>Sejarah Indonesia</td>
+        <td>Matematika</td>
+        <td>K3<br>G8</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>6</td>
+        <td>10.50 - 11.30</td>
+        <td>Seni Musik</td>
+        <td>Kimia</td>
+        <td>PJOK</td>
+        <td>Fisika</td>
+        <td>Bahasa Inggris</td>
+        <td>Matematika</td>
+        <td>Sosiologi</td>
+        <td>Sejarah Indonesia</td>
+        <td>Matematika</td>
+        <td>K3<br>G9</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>7</td>
+        <td>11.30 - 12.10</td>
+        <td>PKWU</td>
+        <td>PKWU</td>
+        <td>Fisika</td>
+        <td>Fisika</td>
+        <td>Bahasa Inggris</td>
+        <td>Matematika</td>
+        <td>Sosiologi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>K3<br>G10</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td></td>
+        <td>12.10 - 13.00</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>K3<br>G11</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>8</td>
+        <td>13.00 - 13.40</td>
+        <td>PKWU</td>
+        <td>PKWU</td>
+        <td>Fisika</td>
+        <td>Kimia</td>
+        <td>Bahasa Inggris</td>
+        <td>Informatika</td>
+        <td>Ekonomi</td>
+        <td>Pendidikan Pancasila</td>
+        <td>Pendidikan Pancasila</td>
+        <td>K3<br>G12</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>9</td>
+        <td>13.40 - 14.20</td>
+        <td>Sejarah Indonesia</td>
+        <td>Matematika</td>
+        <td>Fisika</td>
+        <td>Kimia</td>
+        <td>Pendidikan Agama</td>
+        <td>Informatika</td>
+        <td>Ekonomi</td>
+        <td>Sosiologi</td>
+        <td>Geografi</td>
+        <td>K3<br>G13</td>
+    </tr>
+    <tr>
+        <td>Kamis</td>
+        <td>10</td>
+        <td>14.20 - 15.00</td>
+        <td>Sejarah Indonesia</td>
+        <td>Matematika</td>
+        <td>BK</td>
+        <td>Kimia</td>
+        <td>Pendidikan Agama</td>
+        <td>Informatika</td>
+        <td>Ekonomi</td>
+        <td>Sosiologi</td>
+        <td>Geografi</td>
+        <td>K3<br>G14</td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td>0</td>
+        <td>06.30 - 07.30</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td>P E M B I A S A A N</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td>1</td>
+        <td>07.45 - 08.30</td>
+        <td>Bahasa Inggris</td>
+        <td>Fisika</td>
+        <td>Biologi</td>
+        <td>Biologi</td>
+        <td>Seni Musik</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>K1 G2</td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td>2</td>
+        <td>08.30 - 09.15</td>
+        <td>Bahasa Inggris</td>
+        <td>Fisika</td>
+        <td>Biologi</td>
+        <td>Biologi</td>
+        <td>Seni Musik</td>
+        <td>Sosiologi</td>
+        <td>Kimia</td>
+        <td>Pendidikan Agama</td>
+        <td>Pendidikan Agama</td>
+        <td>K1 G3</td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td></td>
+        <td>09.15 - 10.00</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>I S T I R A H A T</td>
+        <td>K1 G4</td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td>3</td>
+        <td>10.00 - 10.45</td>
+        <td>Bahasa Inggris</td>
+        <td>Kimia</td>
+        <td>PKWU</td>
+        <td>PKWU</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Seni Musik</td>
+        <td>Geografi</td>
+        <td>Sosiologi</td>
+        <td>K1 G5</td>
+    </tr>
+    <tr>
+        <td>Jum&#39;at</td>
+        <td>4</td>
+        <td>10.45 - 11.30</td>
+        <td>BK</td>
+        <td>Kimia</td>
+        <td>PKWU</td>
+        <td>PKWU</td>
+        <td>Fisika</td>
+        <td>Bahasa Jerman</td>
+        <td>Seni Musik</td>
+        <td>Geografi</td>
+        <td>Sosiologi</td>
+        <td>K1 G6</td>
+    </tr>
+    <tbody>
+</table>
+
+  <!-- Jadwal SD Islam Tunas Mandiri – Kelas VI B -->
+  <table>
+    <caption>JADWAL PELAJARAN SD ISLAM TUNAS MANDIRI – KELAS VI B</caption>
+    <thead>
+      <tr>
+        <th>Jam Ke-</th>
+        <th>Waktu</th>
+        <th>Senin</th>
+        <th>Selasa</th>
+        <th>Rabu</th>
+        <th>Kamis</th>
+        <th>Jumat</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>—</td>
+        <td>07.15 – 07.30</td>
+        <td>Ikrar dan Pembinaan</td>
+        <td>Ikrar dan Pembinaan</td>
+        <td>Ikrar dan Kultum Jum’at</td>
+        <td>—</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>—</td>
+        <td>07.30 – 07.50</td>
+        <td>Upacara</td>
+        <td>Tadarus</td>
+        <td>Healthy Day/Pramuka</td>
+        <td>Tadarus</td>
+        <td>Tadarus</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>07.50 – 08.25</td>
+        <td>BHS. AL QUR'AN</td>
+        <td>MATEMATIKA</td>
+        <td>MATEMATIKA</td>
+        <td>BHS INDONESIA</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>08.25 – 09.00</td>
+        <td>BHS. AL QUR'AN</td>
+        <td>MATEMATIKA</td>
+        <td>IPAS (1)</td>
+        <td>MATEMATIKA</td>
+        <td>BHS INDONESIA</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>09.00 – 09.35</td>
+        <td>BHS. INDONESIA</td>
+        <td>PJOK PRAKTEK</td>
+        <td>IPAS (2)</td>
+        <td>PAI (IBADAH)</td>
+        <td>TIK</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>09.35 – 10.10</td>
+        <td>BHS. INDONESIA</td>
+        <td>PJOK PRAKTEK</td>
+        <td>IPAS (2)</td>
+        <td>PAI (AQIDAH)</td>
+        <td>TIK</td>
+      </tr>
+      <tr>
+        <td>—</td>
+        <td>10.10 – 10.30</td>
+        <td colspan="5">ISTIRAHAT</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>10.30 – 11.00</td>
+        <td>MATEMATIKA</td>
+        <td>BHS. INDONESIA</td>
+        <td>PAI AL QUR'AN</td>
+        <td>IPAS (1)</td>
+        <td>PLBJ</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>11.00 – 11.35</td>
+        <td>MATEMATIKA</td>
+        <td>PAI (SKI)</td>
+        <td>PEND. PANCASILA</td>
+        <td>IPAS (1)</td>
+        <td>PLBJ</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>11.35 – 12.05</td>
+        <td>PAI AL QUR'AN</td>
+        <td>PAI (AKHLAK)</td>
+        <td>PJOK TEORI</td>
+        <td>PEND. PANCASILA</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>—</td>
+        <td>12.05 – 13.05</td>
+        <td colspan="5">ISHOMA</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>13.05 – 13.40</td>
+        <td>PEND. PANCASILA</td>
+        <td>SENI & BUDAYA</td>
+        <td>BHS. INDONESIA</td>
+        <td>BHS. INGGRIS</td>
+        <td>Pulang setelah sholat jumat di sekolah</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>13.40 – 14.15</td>
+        <td>PEND. PANCASILA</td>
+        <td>SENI & BUDAYA</td>
+        <td>BHS. INDONESIA</td>
+        <td>BHS. INGGRIS</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>—</td>
+        <td>14.15 – 14.20</td>
+        <td colspan="5">Baca doa / Pulang</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
